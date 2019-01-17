@@ -24,14 +24,14 @@
   5 - 2
   
   
-# Division Operation
+# Division Operation.
   
   3 / 5
   
 # Attencion, don't use "," for to represent decimal number, use ".".
 
   
-# Multiplication Operation
+# Multiplication Operation.
   
   3 * 5
 
